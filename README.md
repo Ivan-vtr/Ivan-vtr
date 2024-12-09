@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c41ea8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />

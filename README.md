@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/mt_compl1cated/profilecard/?igsh=Z3pncGZybW8yOTYz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=c41ea8&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://t.me/Vanekaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>

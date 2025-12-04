@@ -1,8 +1,20 @@
-<div align="center"> <img height="300" width="600" src="https://github.com/user-attachments/assets/37e67ca6-c8a1-49e6-94c3-9b9178cbc33c.gif" /> </div>
-![90096358-dba16400-dd54-11ea-8e44-e181ada72661](https://github.com/user-attachments/assets/37e67ca6-c8a1-49e6-94c3-9b9178cbc33c)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+       width="600" 
+       alt="Привет GIF" />
+</div>
 
 <h1 align="center">Привет, меня зовут Иван 👋</h1>
+
+---
+
+### 📫 Контакты
+<div align="center">
+  <a href="https://www.instagram.com/mt_compl1cated/" target="_blank">Instagram</a> | 
+  <a href="https://t.me/Vanekaa" target="_blank">Telegram</a>
+</div>
+
+---
 
 ### 👨‍💻 Обо мне
 Я бэкенд-разработчик уровня Middle, специализируюсь на создании надежных серверных решений и развитии профессиональных навыков.  
@@ -21,12 +33,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-</div>
-
----
-
-### 📫 Контакты
-<div align="center">
-  <a href="https://www.instagram.com/mt_compl1cated/" target="_blank">Instagram</a> | 
-  <a href="https://t.me/Vanekaa" target="_blank">Telegram</a>
 </div>

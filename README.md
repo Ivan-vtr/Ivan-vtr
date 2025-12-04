@@ -1,8 +1,8 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d496edfa-c98b-440b-a8e7-0ca83668421f" 
-       height="300" width="600" 
+  <img src="https://github.com/user-attachments/assets/88a81e1b-4929-4fff-8aab-21bce4b3f048" 
+       width="600" 
        alt="My GIF" />
 </div>
 

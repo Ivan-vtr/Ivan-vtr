@@ -1,5 +1,11 @@
 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c10b523b-6997-48b1-8458-d49c19def7f9" 
+       width="600" 
+       alt="My GIF" />
+</div>
+
 
 <h1 align="center">Привет, меня зовут Иван 👋</h1>
 
